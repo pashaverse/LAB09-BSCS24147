@@ -1,0 +1,41 @@
+.first-div {
+        width: 500px;
+        height: 500px;
+        background-color: #90caf9;
+        border-width: 3px;
+        border-color: #3949ab; 
+        border-style: solid;
+        border-radius: 20%;
+        margin: 10px;
+        padding: 5px;
+        text-indent: 30px;
+    }
+    
+.normal-para 
+{
+        width: 1470px;
+        height: 100px;
+        background-color: #c2fd00;
+        border-width: 3px;
+        border-color: #000000; 
+        border-style: solid;
+        border-radius: 5%;
+        margin: 10px;
+        padding: 5px;
+        text-indent: 30px;
+}
+
+.fav-para
+{
+        width: 1470px;
+        height: 100px;
+        background-color: #4960c6;
+        border-width: 3px;
+        border-color: #000000; 
+        border-style: solid;
+        border-radius: 5%;
+        margin: 10px;
+        padding: 5px;
+        text-indent: 30px;
+}
+
